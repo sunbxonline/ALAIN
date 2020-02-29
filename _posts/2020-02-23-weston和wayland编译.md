@@ -1,7 +1,15 @@
 ---
+layout: default
 title: 在Ubuntu16.04上编译运行weston
-type: major
+date:   2016-12-07 09:00:00 +0200
+published: 2016-12-07 09:00:00 +0200
+comments: true
+categories: graphics
+tags: [weston, compositor]
+github: "https://github.com/sunbxonline"
 ---
+
+<p>本文说明如何在ubuntu16.04上编译运行weston</p>
 
 ### 设置环境变量
 ```
