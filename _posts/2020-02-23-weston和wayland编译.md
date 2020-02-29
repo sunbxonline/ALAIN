@@ -11,6 +11,8 @@ github: "https://github.com/sunbxonline"
 
 <p>本文说明如何在ubuntu16.04上编译运行weston</p>
 
+<!--more-->
+
 ### 设置环境变量
 ```
 export WLD=$HOME/install
